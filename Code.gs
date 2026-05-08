@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyD0o7cZiVMiCZb5ZBLwSJljCoiM1irFcsg";
+const API_KEY = "AIzaSyBs9QJ8XR6HNxCsB5dSqcX6Bld6J2CgPrw";
 const SHEET_NAME = "Sheet1";
 
 function processNewRows() {
